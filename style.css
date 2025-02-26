@@ -144,4 +144,22 @@ li{
 .vasecontainer{
     padding-top: 35px;
 }
-
+.thirdcontainer{
+    height: 360px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+    padding-right: 45px;
+}
+.quote .q{
+    font-size: 36px;
+    color: #1F2937;
+    width: 750px;
+    font-weight: 200;
+}
+.author .aut{
+    color: #1F2937;
+    padding-left: 530px;
+}
